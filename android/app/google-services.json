@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376205867149",
+    "project_id": "xploreg-209e1",
+    "storage_bucket": "xploreg-209e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376205867149:android:cf5dae92a57895099c8ac4",
+        "android_client_info": {
+          "package_name": "com.example.xplor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376205867149-shb7qisikf14mla16r6ts8m18iskccnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7HAO3hqXFA7PFJYf-pYpGjH7HV5UTNqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376205867149-shb7qisikf14mla16r6ts8m18iskccnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
